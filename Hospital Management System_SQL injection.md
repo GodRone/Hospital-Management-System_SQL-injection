@@ -34,11 +34,12 @@ Connection: Keep-alive
 search=-1' OR 3*2*1=6 and 1=1 --+
 ```
 
-![image-20231015172710460](Hospital Management System_SQL injection.assets/image-20231015172710460.png)
+![image-20231015172710460](https://github.com/GodRone/Hospital-Management-System_SQL-injection/blob/main/Hospital%20Management%20System_SQL%20injection.assets/image-20231015172657173.png)
 
-![image-20231015172657173](Hospital Management System_SQL injection.assets/image-20231015172657173.png)
+![image-20231015172657173](https://github.com/GodRone/Hospital-Management-System_SQL-injection/blob/main/Hospital%20Management%20System_SQL%20injection.assets/image-20231015172710460.png
+)
 
-![image-20231015174534821](Hospital Management System_SQL injection.assets/image-20231015174534821.png)
+![image-20231015174534821](https://github.com/GodRone/Hospital-Management-System_SQL-injection/blob/main/Hospital%20Management%20System_SQL%20injection.assets/image-20231015174534821.png)
 
 
 
